@@ -1,0 +1,16 @@
+name: visualization
+ - python=3.7
+ - numpy
+ - scipy
+ - scikit-learn
+ - jupyter
+ - requests
+ - pandas
+ - seaborn
+ - click
+ - openpyxl
+ - nb_conda
+ - pip:
+   - watermark
+   - pytest
+   - surprise

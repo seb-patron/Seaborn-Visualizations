@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Downloading and preparing data..."
+echo "Dowloading Pokemon CSV. For more info visit https://elitedatascience.com/python-seaborn-tutorial"
+
+# download the general police offense data into data/raw folder
+curl -o ./data/raw/pokemon.csv https://elitedatascience.com/wp-content/uploads/2017/04/Pokemon.csv

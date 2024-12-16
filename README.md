@@ -1,7 +1,7 @@
 # SEABORN Visualizations - Pokemon Dataset
 -
 
-Visualizations of pokemon data using Seaborn.
+Visualizations of data using Seaborn.
 
 
 
@@ -51,5 +51,5 @@ Data source [https://elitedatascience.com/wp-content/uploads/2017/04/Pokemon.csv
 To update project with new packages, add them to environment.yml, then type in
 
 ```bash
-$ conda env update -f environment.yml -n isualization
+$ conda env update -f environment.yml -n visualization
 ```
